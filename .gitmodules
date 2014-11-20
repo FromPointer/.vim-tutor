@@ -1,0 +1,9 @@
+[submodule "bundle/winmanager"]
+	path = bundle/winmanager
+	url = https://github.com/vim-scripts/winmanager.git
+[submodule "bundle/ctags"]
+	path = bundle/ctags
+	url = https://github.com/vim-scripts/ctags.vim.git
+[submodule "bundle/JumpInCode"]
+	path = bundle/JumpInCode
+	url = https://github.com/vim-scripts/JumpInCode.git
