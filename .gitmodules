@@ -7,3 +7,27 @@
 [submodule "bundle/JumpInCode"]
 	path = bundle/JumpInCode
 	url = https://github.com/vim-scripts/JumpInCode.git
+[submodule "bundle/cocoa"]
+	path = bundle/cocoa
+	url = https://github.com/vim-scripts/cocoa.vim.git
+[submodule "bundle/clang_complete"]
+	path = bundle/clang_complete
+	url = https://github.com/Rip-Rip/clang_complete.git
+[submodule "bundle/iso-sim"]
+	path = bundle/iso-sim
+	url = https://github.com/phonegap/ios-sim.git
+[submodule "bundle/dash"]
+	path = bundle/dash
+	url = https://github.com/FromPointer/dash.vim.git
+[submodule "bundle/xcodebuild-rb"]
+	path = bundle/xcodebuild-rb
+	url = https://github.com/lukeredpath/xcodebuild-rb.git
+[submodule "bundle/guard"]
+	path = bundle/guard
+	url = https://github.com/guard/guard.git
+[submodule "bundle/guard-ocunit"]
+	path = bundle/guard-ocunit
+	url = https://github.com/ap4y/guard-ocunit.git
+[submodule "bundle/YouCompleteMe"]
+	path = bundle/YouCompleteMe
+	url = https://github.com/FromPointer/YouCompleteMe.git
