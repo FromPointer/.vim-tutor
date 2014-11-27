@@ -1,6 +1,5 @@
 pathogen.vim
 ============
-
 Manage your `'runtimepath'` with ease.  In practical terms, pathogen.vim
 makes it super easy to install plugins and runtime files in their own
 private directories.
@@ -8,7 +7,9 @@ private directories.
 Installation
 ------------
 
-Install to `~/.vim/autoload/pathogen.vim`.  Or copy and paste:
+Install to `~/.vim/autoload/pathogen.vim` directory.
+
+Or copy and paste:
 
     mkdir -p ~/.vim/autoload ~/.vim/bundle; \
     curl -so ~/.vim/autoload/pathogen.vim \
@@ -22,7 +23,7 @@ to `~\vimfiles`.
 Runtime Path Manipulation
 -------------------------
 
-Add this to your vimrc:
+Add this to your .vimrc file:
 
     call pathogen#infect()
 
