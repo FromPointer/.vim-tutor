@@ -31,3 +31,6 @@
 [submodule "bundle/YouCompleteMe"]
 	path = bundle/YouCompleteMe
 	url = https://github.com/FromPointer/YouCompleteMe.git
+[submodule "bundle/jsx"]
+	path = bundle/jsx
+	url = https://github.com/jsx/jsx.vim.git
